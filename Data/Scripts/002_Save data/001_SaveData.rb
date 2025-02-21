@@ -12,8 +12,6 @@ module SaveData
               end
 
   ##Sylvi Items
-  # Constant to check if the mod is installed
-  KURAY_SHINY_REVAMP = true
 
   # @return [Boolean] whether the save file exists
   def self.exists?
